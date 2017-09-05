@@ -1,0 +1,4 @@
+[submodule "asset-normalization-core"]
+	path = asset-normalization-core
+	url = https://github.com/samsolomon-turvo/asset-normalization-core.git
+	branch = master
