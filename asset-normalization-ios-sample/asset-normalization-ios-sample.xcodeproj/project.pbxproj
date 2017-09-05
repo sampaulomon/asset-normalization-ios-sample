@@ -18,8 +18,6 @@
 /* Begin PBXFileReference section */
 		5D18B09E1F5EB11C0065BCC6 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		5D18B0A41F5EB2FE0065BCC6 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
-		5D18B0A51F5EB34F0065BCC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
-		5D18B0A61F5EB3820065BCC6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		5D1BEEAD1F5D744300D49FA0 /* asset-normalization-ios-sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "asset-normalization-ios-sample.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D1BEEB01F5D744300D49FA0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5D1BEEB21F5D744300D49FA0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -31,6 +29,7 @@
 		5D1BEEC31F5D750200D49FA0 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		5D1BEEC41F5D750A00D49FA0 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
 		5D1BEEC51F5D750A00D49FA0 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		5D4A0D881F5EB61F00703C14 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,8 +160,7 @@
 			children = (
 				5D18B09E1F5EB11C0065BCC6 /* es */,
 				5D18B0A41F5EB2FE0065BCC6 /* fr */,
-				5D18B0A51F5EB34F0065BCC6 /* Base */,
-				5D18B0A61F5EB3820065BCC6 /* en */,
+				5D4A0D881F5EB61F00703C14 /* en */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
